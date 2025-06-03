@@ -6,4 +6,3 @@ I'm Devanshu, a CS student at the University of Illinois Urbana-Champaign. I'm c
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpandaman&show_icons=true&theme=tokyonight)
 
-Yikes, I need to get my grade up ^
