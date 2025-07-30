@@ -4,7 +4,7 @@ Nice to meet you! I'm Devanshu, a CS student at the University of Illinois Urban
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,html,css,js,ts,java,raspberrypi,gcp,threejs,opencv,react,windows,git&perline=15)](https://skillicons.dev)
 
-![dp GitHub stats](https://github-readme-stats.vercel.app/api?username=dpandaman&show_icons=true&theme=tokyonight)
+<!-- ![dp GitHub stats](https://github-readme-stats.vercel.app/api?username=dpandaman&show_icons=true&theme=tokyonight) -->
 
-<!-- ![GitHub Stats](https://streak-stats.demolab.com?user=dpandaman) -->
+![GitHub Stats](https://streak-stats.demolab.com?user=dpandaman&theme=highcontrast) 
 
