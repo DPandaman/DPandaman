@@ -1,6 +1,12 @@
  ##   Hello World! 👋
+<h1 align="center">hey, i’m devanshu!</h1>
+ <p align="center">
+  cs @ uiuc
+ </p>
 
-Nice to meet you! I'm Devanshu, a CS student at the University of Illinois Urbana-Champaign. Check out some of my recents projects and feel free to reach out!
+<!-- Nice to meet you! I'm Devanshu, a CS student at the University of Illinois Urbana-Champaign. Check out some of my recents projects and feel free to reach out! -->
+
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,ts,java,raspberrypi,gcp,threejs,opencv,react,windows,git&perline=15" alt="My Skills">
