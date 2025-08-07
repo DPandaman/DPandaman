@@ -1,4 +1,4 @@
- ##   std::cout << "Hello World! 👋" << std::endl
+ ##   Hello World! 👋
 <h1 align="center">hey, i’m devanshu!</h1>
  <p align="center">
   <strong> cs @ uiuc </strong>
