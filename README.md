@@ -14,8 +14,8 @@
 </p>
 
 <!-- ![dp GitHub stats](https://github-readme-stats.vercel.app/api?username=dpandaman&show_icons=true&theme=tokyonight) -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=dpandaman&theme=black-ice" alt="GitHub Streak Stats">
-</p>
+</p> -->
 
 
