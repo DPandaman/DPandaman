@@ -3,6 +3,12 @@
  <p align="center">
   <strong> cs @ uiuc </strong>
  </p>
+  <p align="center">
+   learning new tech
+ </p>
+  <p align="center">
+   building new projects
+ </p>
 
 <!-- Nice to meet you! I'm Devanshu, a CS student at the University of Illinois Urbana-Champaign. Check out some of my recents projects and feel free to reach out! -->
 
